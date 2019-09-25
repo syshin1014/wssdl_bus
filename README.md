@@ -29,7 +29,7 @@ make
 2. Run `$ROOT/code/main/train.py` (combined mini-batch) or `$ROOT/code/main/train_alter.py` (alternating mini-batches) with appropriate input arguments, including the path for the downloaded pretrained model.
 
 ## SNUBH Dataset
-We provide images corresponding to those in Fig. 6 of our paper. The original result images are also in `$ROOT/code/qual_res/fig6`.
+We provide sample images corresponding to those in Fig. 6 of our paper. The original result images also can be found in `$ROOT/code/qual_res/fig6`.
 
 ## Citation
 ```
