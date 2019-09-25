@@ -2,7 +2,7 @@
 
 This is the code for ["Joint Weakly and Semi-Supervised Deep Learning for Localization and Classification of Masses in Breast Ultrasound Images"](https://ieeexplore.ieee.org/abstract/document/8471199).
 
-This is basically based on a Tensorflow implementation of Faster R-CNN [(https://github.com/smallcorgi/Faster-RCNN_TF)](https://github.com/smallcorgi/Faster-RCNN_TF), which is adopted as the mass detector in the proposed general framework as a choice. Some part of the following descriptions might be a repetition of those in the repository.
+This is based on a Tensorflow implementation of Faster R-CNN [(https://github.com/smallcorgi/Faster-RCNN_TF)](https://github.com/smallcorgi/Faster-RCNN_TF), which is adopted as the mass detector in the proposed general framework as a choice. Some part of the following descriptions might be a repetition of those in the repository.
 
 ## Dependency
 * Tensorflow 1.12
