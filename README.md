@@ -30,3 +30,18 @@ make
 
 ## SNUBH Dataset
 We provide images corresponding to those in Fig. 6 of our paper. The original result images are also in `$ROOT/code/qual_res/fig6`.
+
+## Citation
+```
+@article{shin_tmi19,
+  author = {S. Y. {Shin} and S. {Lee} and I. D. {Yun} and S. M. {Kim} and K. M. {Lee}},
+  journal = {IEEE Transactions on Medical Imaging},
+  title = {Joint Weakly and Semi-Supervised Deep Learning for Localization and Classification of Masses in Breast Ultrasound Images},
+  year = {2019},
+  volume = {38},
+  number = {3},
+  pages = {762-774},
+  doi = {10.1109/TMI.2018.2872031},
+  month = {March},
+}
+```
