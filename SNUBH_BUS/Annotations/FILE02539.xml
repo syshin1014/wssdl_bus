@@ -1,0 +1,36 @@
+<annotation>
+   <folder>BUS</folder>
+   <filename>FILE02539.tif</filename>
+   <source />
+   <owner />
+   <size>
+      <width>738</width>
+      <height>578</height>
+      <depth>1</depth>
+   </size>
+   <BIRADS><diag>1</diag></BIRADS><segmented>0</segmented>
+   <object>
+      <name>malignant</name>
+      <pose />
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>89</xmin>
+         <ymin>19</ymin>
+         <xmax>642</xmax>
+         <ymax>347</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>__background__</name>
+      <pose />
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>307</xmin>
+         <ymin>368</ymin>
+         <xmax>722</xmax>
+         <ymax>556</ymax>
+      </bndbox>
+   </object>
+</annotation>

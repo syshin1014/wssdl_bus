@@ -1,0 +1,60 @@
+<annotation>
+   <folder>BUS</folder>
+   <filename>FILE04254.tif</filename>
+   <source />
+   <owner />
+   <size>
+      <width>738</width>
+      <height>594</height>
+      <depth>1</depth>
+   </size>
+   <BIRADS><diag>1</diag></BIRADS><segmented>0</segmented>
+   <object>
+      <name>malignant</name>
+      <pose />
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>305</xmin>
+         <ymin>107</ymin>
+         <xmax>364</xmax>
+         <ymax>173</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>__background__</name>
+      <pose />
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>74</xmin>
+         <ymin>354</ymin>
+         <xmax>708</xmax>
+         <ymax>563</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>__background__</name>
+      <pose />
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>13</xmin>
+         <ymin>5</ymin>
+         <xmax>720</xmax>
+         <ymax>100</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>__background__</name>
+      <pose />
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>20</xmin>
+         <ymin>117</ymin>
+         <xmax>261</xmax>
+         <ymax>325</ymax>
+      </bndbox>
+   </object>
+</annotation>
