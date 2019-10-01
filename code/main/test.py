@@ -26,7 +26,7 @@ def parse_args():
                         default=101, type=int)
     parser.add_argument('--norm_type', help='normalization type (only for ResNet)', default='BN', type=str)
     parser.add_argument('--trained_model', help='path for a trained model', \
-                        default='../trained_model/vgg_800_4224/VGGnet_faster_rcnn_iter_56000.ckpt', type=str)
+                        default='../trained_model/vgg_800_4224/VGGnet_faster_rcnn.ckpt', type=str)
     parser.add_argument('--dataset', help='dataset', default='SNUBH', type=str)
     parser.add_argument('--imdb_test', help='test set', default='bus_test', type=str)
     parser.add_argument('--comp_mode', help='competition mode', action='store_true')
