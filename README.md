@@ -5,6 +5,7 @@ This is the code for ["Joint Weakly and Semi-Supervised Deep Learning for Locali
 This is based on a Tensorflow implementation of Faster R-CNN [(https://github.com/smallcorgi/Faster-RCNN_TF)](https://github.com/smallcorgi/Faster-RCNN_TF), which is adopted as the mass detector in the proposed general framework as a choice. Some part of the following descriptions might be a repetition of those in the repository.
 
 ## Dependency
+* Python 2.7.12
 * Tensorflow 1.12
 * Cython 0.27.3
 * easydict 1.7
